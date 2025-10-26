@@ -4,3 +4,8 @@
     background-color: hlsa(350, 100%, 88%, 1);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#second {
+    color: hsla(240,100%,65%,1);
+    font-weight: 36px;
+}
