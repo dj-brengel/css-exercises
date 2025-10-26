@@ -7,5 +7,14 @@
 
 #second {
     color: hsla(240,100%,65%,1);
-    font-weight: 36px;
+    font-size: 36px;
+}
+
+#third#fourth {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsla(130,80%,80%,1);
+    font-weight: bold;
 }
