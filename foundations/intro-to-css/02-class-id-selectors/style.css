@@ -2,4 +2,5 @@
 
 .odd {
     background-color: hlsa(350, 100%, 88%, 1);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
